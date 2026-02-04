@@ -17,7 +17,7 @@ footer: '**Dissertação de Mestrado — Arthur Duarte**'
 
 ---
 
-![bg left:60%](/home/aw/github/apresentacao-dissertacao/docs/figs/inpe_logo.png)
+![bg left:60%](./figs/inpe_logo.png)
 
 
 # Metodologia
