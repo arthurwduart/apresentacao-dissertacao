@@ -13,6 +13,7 @@ footer: '**Dissertação de Mestrado — Arthur Duarte**'
 - Contexto
 - Motivação
 - Objetivos
+- Especificos
 
 ---
 
