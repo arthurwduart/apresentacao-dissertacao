@@ -16,7 +16,7 @@ footer: '**Dissertação de Mestrado — Arthur Duarte**'
 
 ---
 
-![bg left:50%](/home/aw/github/apresentacao-dissertacao/figs/inpe_logo.png)
+![bg left:60%](/home/aw/github/apresentacao-dissertacao/figs/inpe_logo.png)
 
 
 # Metodologia
@@ -25,3 +25,4 @@ footer: '**Dissertação de Mestrado — Arthur Duarte**'
 - Modelo
 - Assimilação
 - Observação
+- Teste
